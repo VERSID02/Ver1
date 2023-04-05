@@ -1,0 +1,68 @@
+
+/*       General       */
+
+
+
+img {
+  padding-right: 3rem;
+  display: inline-block;
+}
+
+
+video {
+  width: 14rem;
+}
+
+
+section {
+  padding: 6rem 0;
+}
+
+
+  /*    INDEX.HTML    */
+
+
+#anime-cover {
+  float: left;
+}
+
+
+.summary {
+  padding: 2rem 0 6rem;
+}
+
+
+      /* Contact me */
+
+
+#email-input {
+  width: 81.547px;
+}
+
+
+      /* Twitter Highlights */
+
+
+.twt-high-h1 {
+  padding-top: 3rem;
+  text-align: center;
+}
+
+
+#navbar-logo {
+  width: 10rem;
+}
+
+
+.twt-high-image {
+  width: 14rem;
+}
+
+
+.col-xl-3 {
+  text-align: center;
+  height: 132px;
+}
+
+
+      /*  Hobbies */
